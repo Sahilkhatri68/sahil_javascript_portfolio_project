@@ -22,5 +22,5 @@ Welcome to the personal portfolio of **Sahil Khatri**. This portfolio showcases 
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/sahilkhatri68/portfolio.git
+   git clone https://github.com/Sahilkhatri68/sahil_javascript_portfolio_project
    ```
